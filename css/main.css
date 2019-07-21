@@ -520,7 +520,8 @@ header {
       width: 31%;
       height: auto;
       background-color: #f2f2f2;
-      overflow: hidden; }
+      overflow: hidden;
+      border: 1px solid #d9d9d9; }
       @media screen and (max-width: 630px) {
         .featured-products .featured-boxes .box {
           width: 100%;
