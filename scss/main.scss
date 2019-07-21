@@ -1,0 +1,49 @@
+// Fonts
+// --------------------------------------------------------
+@import "partials/fonts";
+
+// Variables
+// --------------------------------------------------------
+@import "partials/vars";
+
+
+// Base styles
+// --------------------------------------------------------
+@import "partials/base";
+
+.container {
+  position:relative;
+  width:100%;
+  padding:20px 50px;
+}
+
+
+// Header
+// --------------------------------------------------------
+
+@import "partials/header";
+
+
+
+
+
+
+// Feature Panel
+// --------------------------------------------------------
+@import "partials/feature";
+
+
+
+
+
+// Content Area
+// --------------------------------------------------------
+@import "partials/content";
+
+
+
+// Footer
+// --------------------------------------------------------
+@import "partials/footer";
+
+

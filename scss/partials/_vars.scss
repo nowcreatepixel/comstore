@@ -1,0 +1,48 @@
+// Variables
+// --------------------------------------------------------
+
+// Breakpoints
+$breakpointDesktopSuperLarge: 2500px;
+$breakpointDesktopExtraLarge: 1880px;
+$breakpointDesktopLarge: 1280px;
+$breakpointDesktopSmall: 1024px;
+$breakpointIpadPro: 1024px;
+$breakpointMobileLandscape: 980px;
+$breakpointMobileLandscapeMid: 830px;
+$breakpointMobilePortrait: 630px;
+$breakpointMobileSmall: 330px;
+$breakpointMinHeight: 510px;
+$breakpointMidHeight: 720px;
+
+// Colors
+$blue: #51b0d5;
+$darknavy: #040e16;
+$green: #6eba90;
+$grey: #919191;
+$lightgrey: #f2f2f2;
+$white: #ffffff;
+$black: #000000;
+
+// Typography
+$font-family-sans-serif:  'Lato', Helvetica, Arial, sans-serif !default;
+$font-family-base:        $font-family-sans-serif !default;
+
+
+$font-size-base:          14px !default;
+$font-size-large:         ceil(($font-size-base * 1.25)) !default; // ~18px
+$font-size-small:         ceil(($font-size-base * 0.85)) !default; // ~12px
+$font-size-extra-large:   ceil(($font-size-base * 5)) !default; //
+$font-size-super-large:   ceil(($font-size-base * 11)) !default; //
+
+$font-size-h1:            floor(($font-size-base * 4.6)) !default; // ~64px
+$font-size-h1-md:         floor(($font-size-base * 3.5)) !default; // ~49px
+$font-size-h1-sm:         floor(($font-size-base * 2.75)) !default; // ~38px
+$font-size-h1-xsm:         floor(($font-size-base * 2)) !default; // ~28px
+
+$font-size-h2:            floor(($font-size-base * 2.15)) !default; // ~30px
+$font-size-h3:            ceil(($font-size-base * 1.7)) !default; // ~24px
+$font-size-h3-md:         ceil(($font-size-base * 1.4)) !default; // ~20px
+$font-size-h4:            ceil(($font-size-base * 0.85)) !default; // ~12px
+// not used //
+$font-size-h5:            $font-size-base !default;
+$font-size-extrasmall:    ceil(($font-size-base * 0.75)) !default; // ~11px
