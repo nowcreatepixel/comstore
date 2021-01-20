@@ -11,7 +11,7 @@
   "dependencies": {
     "autoprefixer": "^8.5.0",
     "cssnano": "^3.10.0",
-    "gsap": "^2.0.0",
+    "gsap": "^3.6.0",
     "gulp": "^3.9.1",
     "gulp-clean-css": "^3.9.4",
     "gulp-concat": "^2.6.1",
